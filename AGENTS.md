@@ -37,11 +37,3 @@ Fill this in at kickoff so every agent knows whose files are whose.
 |---|---|---|
 | | | |
 
-
-## 4. Who owns what
-
-| Area | Owner | Folders |
-|---|---|---|
-| Frontend | @login1 | web/ |
-| Backend | @login2 | api/ |
-| Agents | @login3 | agents/ |
